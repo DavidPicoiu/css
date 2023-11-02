@@ -1,0 +1,18 @@
+
+p {
+    background-color: rgb(209, 194, 199);
+    font-size: 18px;
+}
+body
+ {
+    background-color: rgb(168, 147, 147);
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    font-size: 18px;
+}
+a
+{
+    color: rgb(131, 80, 23);
+}
+t
